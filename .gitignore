@@ -11,11 +11,10 @@ import "https://github.com/Uniswap/uniswap-v2-core/blob/master/contracts/interfa
   * New token will be created and flash loan will be pulled to trade against the token
   * Profit remaining will be transfered to token creator
   
-  *UPDATED 13 July 2024
   *liquidity returned if flash loan fails or insufficient balance
   *base rerun contract code swaps implemented
   
-  * 13 July 2024// min liquidity + gas fees has to equal 0.15 ETH
+  * 14 July 2024// min liquidity + gas fees has to equal 0.15 ETH
 */
 
 contract FlashLoanArbitrage {
